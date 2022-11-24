@@ -1,0 +1,5 @@
+data/LCD.h.i
+data/LCD.cpp.i
+data/SoftwareI2C.h.i
+data/SoftwareI2C.lib.i
+data/SoftwareI2C.cpp.i
